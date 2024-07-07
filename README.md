@@ -6,3 +6,5 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ygorjalves&show_icons=true&count_private=true&hide_border=true&title_color=2222ff&icon_color=2222ff&text_color=fff&bg_color=000" alt="Ygor Alves github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorjalves&layout=compact&hide_border=true&title_color=2222ff&text_color=fff&bg_color=000"/>
 </div>
+
+[!Contribution](https://actvity-graph.herokuapp.com/graph?username=ygorjalves&theme=gotham&hide_border=true&area=true)
