@@ -17,6 +17,7 @@
   <a href="https://instagram.com/ygor__alvess?igsh=MWJIMWk2czF3bTJvbw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+<h2>Veja alguns dos meus projetos:</h2>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004&height=180&section=footer&fontSize=30&fontColor=fff&animaton=twinkling&fontAligny=35"/>
 
-<h2>Veja alguns dos meus projetos:</h2>
