@@ -9,7 +9,7 @@
 
 
 
-<p align="center" bg_color="000">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ygorjalves&theme=shields&row=2&&column=3&margin-w=15&margin-h=15"/>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://instagram.com/ygor__alvess?igsh=MWJIMWk2czF3bTJvbw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<div align="center">
+<div align="center" bg_color="000">
 <h2>Veja alguns dos meus projetos:</h2>
 <p>Projeto Android: <a href="https://ygorjalves.github.io/projeto-android/">https://ygorjalves.github.io/projeto-android/</a></p>
 <p>Projeto PlayStation: <a href="https://ygorjalves.github.io/projeto-pl/">https://ygorjalves.github.io/projeto-pl/</a></p>
