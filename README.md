@@ -9,7 +9,7 @@
 
 
 
-<p align="center">
+<p align="center" bg_color="000">
   <img src="https://github-profile-trophy.vercel.app/?username=ygorjalves&theme=shields&row=2&&column=3&margin-w=15&margin-h=15"/>
 </p>
 
