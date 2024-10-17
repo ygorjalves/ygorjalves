@@ -1,6 +1,6 @@
 <style>
   body {
-    color: rgb(20,20,40)
+    color: rgb(20,20,40);
   }
 </style>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004&height=180&section=header&text=Ygor+Alves&fontSize=30&fontColor=fff&animaton=twinkling&fontAligny=35"/>
